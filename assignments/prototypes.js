@@ -217,4 +217,4 @@ CharacterStats.prototype.takeDamage = function() {
   evil.hit(good);
   good.hit(evil);
 
-  // console.log(archer.healthPoints);
+  
